@@ -1,1 +1,1 @@
-# TeaKart
+# TeaKart - Online Ecommerce website
