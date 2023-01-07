@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Cabin', sans-serif;
+}
+
+nav{
+    display: flex;
+    height: 60px;
+    background-color: #272727;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    position: sticky;
+}
+
+
+.logo{
+    display: flex;
+}
+
+.logo img{
+    padding: 10px;
+    width: 150px;
+}
+
+.iconsMobile{
+    display: none;
+}
+
+.search{
+    display: flex;
+    background-color: white;
+    width: 35vw;
+    height: 36px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.search input{
+    height: 36px;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+    padding: 0 16px;
+    border: 0;
+    outline: none;
+}
+
+.btn{
+    border: 0;
+    cursor: pointer;
+    background: transparent;
+    padding: 6px 10px;
+}
+
+.icons{
+    margin: 10px;
+}
+
+.btn img{
+    width: 22px;
+}
+
+#profile img{
+    width: 30px;
+}
+
+#cart img{
+    width: 40px;
+}
+
+.items{
+    margin: 10px;
+    width: 25%;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 2px solid #ffffff;
+}
+
+.images{
+    width: 100%;
+}
+ol{
+    color: #071f3a;
+    font-size: 25px;
+    font-style: normal;
+    
+}
+.buttons{
+    width: 100%;
+    border: 0;
+    cursor: pointer;
+    color: #272727;
+    height: 50px;
+    font-size: 25px;
+    background-color: #93aac4;
+}
+
+.signup{
+    margin: 10px;
+    width: 39%;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 2px solid #2b2b2b;
+}
+
+footer{
+    background-color: #240769;
+    color: rgb(255, 244, 244);
+    text-align: center;
+    padding: 15px;
+}
