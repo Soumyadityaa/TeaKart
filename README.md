@@ -1,1 +1,2 @@
-# TeaKart - Online Ecommerce website
+# TeaKart - Online Ecommerce website 
+only focus on tea selling
